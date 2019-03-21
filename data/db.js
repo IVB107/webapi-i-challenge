@@ -10,6 +10,8 @@ module.exports = {
   remove,
 };
 
+// let users = [];
+
 function find() {
   return db('users');
 }
